@@ -1,8 +1,4 @@
-GitHubCalendar(".calendar-1", "IonicaBizau", {
-    responsive: true,
-    tooltips: true
-});
-GitHubCalendar(".calendar-2", "bachdx2812", {
+GitHubCalendar(".calendar-1", "salimmurshed", {
     responsive: true,
     tooltips: true
 });
